@@ -1,6 +1,6 @@
 # School Artifacts
 
-Things I made in college. Added as I uncover them from long-lost flash drives and dusty old boxes.
+Things I made in college. Added as I unearth them from long-lost flash drives and dusty boxes.
 
 [Architecture Portfolio](portfolio.pdf)
 
